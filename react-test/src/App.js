@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Read more
+          Read more after revert
         </a>
       </header>
     </div>
